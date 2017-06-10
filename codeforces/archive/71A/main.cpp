@@ -15,7 +15,6 @@ int main()
             cout << s[i][0] <<s[i].length()-2 << s[i][s[i].length()-1]<<'\n';
         else    
             cout << s[i];
-            
     }
     return 0;
 }
