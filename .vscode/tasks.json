@@ -1,6 +1,0 @@
-{
-    "command": "g++",
-    "isShellCommand": true,
-    "args": ["-g","${file}","-o","${fileDirname}/${fileBasenameNoExtension}.out"],
-    "showOutput": "always"
-}
